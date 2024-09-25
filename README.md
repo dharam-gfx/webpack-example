@@ -3,6 +3,16 @@
 I'll show you how to structure a project both **without Webpack** and **with Webpack**. This will help you understand the difference in how code is managed and bundled.
 
 ---
+### 🚀 Webpack: Before & After – A Game Changer! ⚡
+
+#### **Discover how Webpack transforms your project!**
+
+We’re diving into a side-by-side comparison of a project **without Webpack** vs. **with Webpack**. 🛠️ This will show you just how much more efficient your workflow can be with bundling and optimizations!
+
+
+![Webpack Preview](https://raw.githubusercontent.com/dharam-gfx/webpack-example/refs/heads/master/Images/webpackPrev.gif)
+
+---
 
 ## Without Webpack
 
